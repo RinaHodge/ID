@@ -2,6 +2,16 @@
 
 Este proyecto es una pizarra que tiene por objetivo guardar varias imagenes, para sacar un video como resultado.
 ---
+## 📄 Contenido
+
+- 📁 MenuImagenes → Contiene las imágenes utilizadas para la interfaz del menú
+- 📁 proyectos → Se guardan las proyectos creados
+- 📄 Animación.py → Bucle con el funcionamiento principal
+- 📄 funciones.py → Funciones utilizadas
+- 📄 InterfazPizarra.py → Interfaz de pizarra (No incluida en el funcionamiento)
+- 📄 Menu.py → Incluye interfaz del menú, necesaria para ejecutar el proyecto
+
+---
 
 ## 🎨 Características
 
@@ -33,5 +43,3 @@ Este proyecto es una pizarra que tiene por objetivo guardar varias imagenes, par
 ## 🖥️ Instalación
 
 - Clonar el proyecto 
-
-
